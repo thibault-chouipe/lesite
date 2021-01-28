@@ -1,0 +1,104 @@
+body {
+background-color:white;
+background-image:url(http://www.kingpro.fr/wp-content/uploads/2015/10/fond-%C3%A9cran-KINGPRO-blanc.jpg);
+background-position:0% 20%;
+}
+
+h1,h2,h3,h4{  text-align : center }
+p{ text-align : justify;}
+
+
+a:link{
+  text-decoration: none;
+  color:white;
+}
+
+a:visited{
+  text-decoration: none;
+  color:white;
+}
+
+.para{ text-align : center }
+
+.ita{ font-style:italic; }
+
+.tag1{
+  background-color:#0d6efd;
+  text-align: center;
+  color:white;
+  border-width:2px;
+  border-style:solid;
+  border-color:white;
+  border-radius:25px 0px;
+}
+
+.jumbotron{
+  background-color: white;
+  border:2px solid black;
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px;
+  border-radius:7px;
+}
+
+.photo-profil{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.photo-saclay {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 80%;
+}
+
+.photo-univ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	max-width: 50%;
+}
+
+.photo-icone { max-width: 4%; }
+.photo-icone:hover { border-radius:30px; opacity: 0.9;}
+
+.iconedossier {max-width: 4%; }
+.iconedossier:hover { border-radius:90%; }
+
+.photo-icone-linkedin { max-width: 3%; }
+.photo-icone-linkedin:hover { border-radius:15px; opacity: 0.9; }
+
+.logoforms{ max-width: 40%;}
+
+.logomicrosoft{ max-width: 50%; }
+
+.icone-gestionnairefic{
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 25%;
+}
+
+.icone-chiffrement{ max-width: 50%; }
+
+.listelogo{ text-align:center; }
+
+.logocalendrier{ max-width: 5%; }
+
+.logocalendrier2{ max-width: 10%; }
+
+.logobytel{ max-width: 40%; }
+
+.logomachine { max-width: 70%; }
+
+.logoelk{
+  margin-left: 15%;
+  margin-right: auto;
+  max-width: 50%;
+}
+
+.logousine{ max-width: 100%; }
+
+.liens{ color:black; border: 1px solid black; padding: 1px;}
+.liens:link{ color:black; }
+.liens:visited{ color:black; }
