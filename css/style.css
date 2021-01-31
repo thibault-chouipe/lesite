@@ -1,8 +1,19 @@
 body {
-background-color:white;
-background-image:url(http://www.kingpro.fr/wp-content/uploads/2015/10/fond-%C3%A9cran-KINGPRO-blanc.jpg);
-background-position:0% 20%;
+
+
+
+
 }
+
+.conteneur-principal{
+background-repeat:no-repeat;
+  background-color:white;
+  background-image: url(https://image.freepik.com/vecteurs-libre/fond-blanc-formes-hexagonales_1361-1129.jpg);
+
+/** background:linear-gradient(-120deg, #4285f4, #34a853, #fbbc05, #ea4335); **/
+background:linear-gradient(-120deg, #B0CDFF, #C3D9FF, #DCE9FF, #FFFFFF);
+}
+
 
 h1,h2,h3,h4{  text-align : center }
 p{ text-align : justify;}
@@ -61,13 +72,18 @@ a:visited{
 }
 
 .photo-icone { max-width: 4%; }
-.photo-icone:hover { border-radius:30px; opacity: 0.9;}
+.photo-icone:hover { border-radius:30px; opacity: 0.9;
+filter : hue-rotate(120deg);}
 
 .iconedossier {max-width: 4%; }
-.iconedossier:hover { border-radius:90%; }
+.iconedossier:hover {
+  filter : hue-rotate(170deg);
+
+}
 
 .photo-icone-linkedin { max-width: 3%; }
-.photo-icone-linkedin:hover { border-radius:15px; opacity: 0.9; }
+.photo-icone-linkedin:hover { border-radius:15px; }
+
 
 .logoforms{ max-width: 40%;}
 
