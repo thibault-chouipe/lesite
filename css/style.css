@@ -1,6 +1,10 @@
 body {
 }
 
+footer{
+  background:linear-gradient(-120deg, #B0CDFF, #C3D9FF, #DCE9FF, #FFFFFF);
+}
+
 .conteneur-principal{
   background-repeat: no-repeat;
   background-size: cover;
@@ -173,5 +177,5 @@ filter : hue-rotate(120deg);}
 }
 
 .signature1{
-  margin: 400px;
+  margin: 100px;
 }
