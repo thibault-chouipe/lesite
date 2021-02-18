@@ -1,8 +1,4 @@
-
-
-
 body {
-
 }
 
 .conteneur-principal{
@@ -15,11 +11,8 @@ body {
 background:linear-gradient(-120deg, #B0CDFF, #C3D9FF, #DCE9FF, #FFFFFF);
 }
 
-
-
 h1,h2,h3,h4{  text-align : center }
 p{ text-align : justify;}
-
 
 a:link{
   text-decoration: none;
@@ -79,14 +72,10 @@ a:visited{
 filter : hue-rotate(120deg);}
 
 .iconedossier {max-width: 4%; }
-.iconedossier:hover {
-  filter : hue-rotate(170deg);
-
-}
+.iconedossier:hover { filter : hue-rotate(170deg); }
 
 .photo-icone-linkedin { max-width: 3%; }
 .photo-icone-linkedin:hover { border-radius:15px; }
-
 
 .logoforms{ max-width: 40%;}
 
@@ -113,7 +102,7 @@ filter : hue-rotate(120deg);}
   display: block;
   margin-left: auto;
   margin-right: auto;
-	 }
+}
 
 .logoelk{
   margin-left: 15%;
@@ -121,33 +110,19 @@ filter : hue-rotate(120deg);}
   max-width: 50%;
 }
 
-.schemaelk{
-  max-width: 100%;
-}
+.schemaelk{ max-width: 100%; }
 
-.iconeVM{
-  max-width: 20%;
-}
+.iconeVM{ max-width: 20%; }
 
-.iconePYGAME{
-  max-width: 50%;
-}
+.iconePYGAME{ max-width: 50%; }
 
-.iconePYCHARM{
-  max-width: 20%;
-}
+.iconePYCHARM{ max-width: 20%; }
 
-.iconeLABO{
-max-width: 20%;
-}
+.iconeLABO{ max-width: 20%; }
 
-.iconeCSS{
-  max-width: 25%;
-}
+.iconeCSS{ max-width: 25%; }
 
-.iconeBOOT{
-  max-width: 40%;
-}
+.iconeBOOT{ max-width: 40%; }
 
 .iconeJAVA{
   display: block;
@@ -156,9 +131,30 @@ max-width: 20%;
   max-width: 50%;
 }
 
-.iconeNGINX{
+.iconeECLIPSE {
+  max-width: 50%;
+}
+
+.iconeMAVEN{
   max-width: 20%;
 }
+
+.iconeTANK{
+  max-width: 18%;
+}
+
+.iconeCADENAS{
+  max-width: 20%;
+}
+.iconeGLITCH{
+  max-width: 50%;
+}
+
+.iconeC{
+  max-width: 18%;
+}
+
+.iconeNGINX{ max-width: 20%; }
 
 .logousine{ max-width: 100%; }
 
