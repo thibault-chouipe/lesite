@@ -116,6 +116,19 @@ filter : hue-rotate(120deg);}
   max-width: 50%;
 }
 
+.schemaelk{
+  max-width: 100%;
+}
+
+.iconeVM{
+  max-width: 20%;
+
+}
+
+.iconeLABO{
+max-width: 20%;
+}
+
 .logousine{ max-width: 100%; }
 
 .liens{ color:black; border: 1px solid black; padding: 1px;}
