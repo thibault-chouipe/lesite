@@ -19,6 +19,12 @@ a:link{
   color:white;
 }
 
+
+.police-aaa{
+  font-size: xx-small;
+}
+
+
 a:visited{
   text-decoration: none;
   color:white;
@@ -158,6 +164,10 @@ filter : hue-rotate(120deg);}
 
 .logousine{ max-width: 100%; }
 
-.liens{ color:black; border: 1px solid black; padding: 1px;}
-.liens:link{ color:black; }
+
+.liens:link{ color:white; }
 .liens:visited{ color:black; }
+
+.police-aaa{
+  font-size: 90%;
+}
