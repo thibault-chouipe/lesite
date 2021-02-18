@@ -108,7 +108,12 @@ filter : hue-rotate(120deg);}
 
 .logobytel{ max-width: 40%; }
 
-.logomachine { max-width: 70%; }
+.logomachine {
+  max-width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	 }
 
 .logoelk{
   margin-left: 15%;
@@ -122,11 +127,37 @@ filter : hue-rotate(120deg);}
 
 .iconeVM{
   max-width: 20%;
+}
 
+.iconePYGAME{
+  max-width: 50%;
+}
+
+.iconePYCHARM{
+  max-width: 20%;
 }
 
 .iconeLABO{
 max-width: 20%;
+}
+
+.iconeCSS{
+  max-width: 25%;
+}
+
+.iconeBOOT{
+  max-width: 40%;
+}
+
+.iconeJAVA{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+}
+
+.iconeNGINX{
+  max-width: 20%;
 }
 
 .logousine{ max-width: 100%; }
